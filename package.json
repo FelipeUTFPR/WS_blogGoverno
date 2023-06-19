@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/FelipeUTFPR/WS_blogGoverno/issues"
   },
-  "homepage": "https://github.com/FelipeUTFPR/WS_blogGoverno#readme"
+  "homepage": "https://github.com/FelipeUTFPR/WS_blogGoverno#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.12",
+    "mogoose": "0.0.1-security",
+    "mongoose": "^5.10.0",
+    "mysql": "^2.18.1"
+  }
 }
